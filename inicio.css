@@ -1,0 +1,38 @@
+*
+.a {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight:300;
+   border-color: darkcyan;
+   font-size: 50px;
+   border-style: hidden;
+   font-style:oblique;
+   text-transform: lowercase;
+   
+}
+
+.li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:100;
+    border-color: darkcyan;
+    font-size: 20px;
+    border-style: hidden;
+    font-style:inherit;
+    text-transform: lowercase;
+    
+ }
+
+ .na {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:100;
+    border-color: darkcyan;
+    font-size: 20px;
+    border-style: hidden;
+    font-style:inherit;
+    text-transform: lowercase;
+ }
+
+.body{
+    background-color: white;
+    backdrop-filter:unset;
+    
+}
